@@ -204,7 +204,7 @@
 
 *   [Greatwallcorner/TV-Multiplatform](https://github.com/Greatwallcorner/TV-Multiplatform) - 基于fonmi/TV项目的， 简单桌面版本实现。
 
-*   [ismartcoding/plain-app](https://github.com/ismartcoding/plain-app) - PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.
+*   [plainhub/plain-app](https://github.com/plainhub/plain-app) - PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.
 
 *   [GSQZ/TuneFree-for-Android](https://github.com/GSQZ/TuneFree-for-Android) - 一款基于Dso music二次开发的网易云音乐第三方播放器，可解析并播放网易云音乐中的全部付费资源
 
@@ -350,7 +350,7 @@
 
 *   [6dylan6/jdpro](https://github.com/6dylan6/jdpro) -
 
-*   [electerm/electerm](https://github.com/electerm/electerm) - 📻Terminal/ssh/sftp/ftp/telnet/serialport/RDP/VNC client(linux, mac, win)
+*   [electerm/electerm](https://github.com/electerm/electerm) - 📻Terminal/ssh/sftp/ftp/telnet/serialport/RDP/VNC/Spice client(linux, mac, win)
 
 *   [chokcoco/iCSS](https://github.com/chokcoco/iCSS) - 不止于 CSS
 
@@ -394,7 +394,7 @@
 
 ## C++
 
-*   [game1024/OpenSpeedy](https://github.com/game1024/OpenSpeedy) - 🎮 An open-source game speed modifier.\[一款开源的游戏变速器]
+*   [game1024/OpenSpeedy](https://github.com/game1024/OpenSpeedy) - 🎮 An open-source game speed modifier.
 
 *   [SteamClientHomebrew/Millennium](https://github.com/SteamClientHomebrew/Millennium) - An open-source low-code modding framework to create, manage and use themes/plugins for the desktop Steam Client without any low-level internal interaction or overhead.
 
@@ -550,7 +550,7 @@
 
 *   [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) - 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 等基于 Clash Premium 内核的客户端。
 
-*   [aardio/ImTip](https://github.com/aardio/ImTip) - ImTip 智能桌面助手：仅 860 KB，提供输入跟踪提示 + 超级热键 + AI 助手，可将各种桌面应用快速接入 AI  大模型
+*   [aardio/ImTip](https://github.com/aardio/ImTip) - ImTip 智能桌面助手：仅 895 KB，提供输入跟踪提示 + 超级热键 + AI 助手，可将各种桌面应用快速接入 AI  大模型
 
 *   [yuanteng1234566/Auto-jd](https://github.com/yuanteng1234566/Auto-jd) - 京东活动全自动
 
@@ -644,7 +644,7 @@
 
 ## Java
 
-*   [FlutterGenerator/termux-monet](https://github.com/FlutterGenerator/termux-monet) - Termux Monet - a (unmaintained) terminal emulator application for Android 6+ OS extendible by variety of packages, with Monet support and experimental features.
+*   [FlutterGenerator/termux-monet](https://github.com/FlutterGenerator/termux-monet) - Termux Monet - a (unmaintained) terminal emulator application for Android 7+ OS extendible by variety of packages, with Monet support and experimental features.
 
 *   [yangFenTuoZi/Runner](https://github.com/yangFenTuoZi/Runner) -
 
@@ -754,7 +754,7 @@
 
 *   [pkczc/OpenList-Magisk\_123](https://github.com/pkczc/OpenList-Magisk_123) - 修改oplist源，实现123网盘无限制下载
 
-*   [Alien-Et/OpenList-Magisk](https://github.com/Alien-Et/OpenList-Magisk) - OpenList Magisk(兼容KernelSU) 模块将 OpenList 文件服务器集成到 Android 系统中，通过 Magisk/KernelSU 以系统化方式运行，支持 ARM 和 ARM64 架构。
+*   [Alien-Et/OpenList-Magisk](https://github.com/Alien-Et/OpenList-Magisk) - OpenList Magisk(兼容Magisk/KernelSU/APatch) 模块将 OpenList 文件服务器集成到 Android 系统中，通过 Magisk/KernelSU/APatch 以系统化方式运行，支持 ARM 和 ARM64 架构。
 
 *   [LinuxDroidMaster/Termux-Desktops](https://github.com/LinuxDroidMaster/Termux-Desktops) - Collection of scripts to launch Desktops with audio in Termux X11 and how to use hardware acceleration
 
@@ -962,7 +962,7 @@
 
 *   [IridiumIO/CompactGUI](https://github.com/IridiumIO/CompactGUI) - Reduce the space taken up by games and programs on disk by using native Windows APIs
 
-*   [PCL-Community/PCL2-CE](https://github.com/PCL-Community/PCL2-CE) - PCL 社区版 由社区开发者维护与管理
+*   [PCL-Community/PCL-CE](https://github.com/PCL-Community/PCL-CE) - PCL 社区版 由社区开发者维护与管理
 
 *   [Meloong-Git/PCL](https://github.com/Meloong-Git/PCL) - Minecraft 启动器 Plain Craft Launcher（PCL）。
 
