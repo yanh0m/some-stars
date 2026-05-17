@@ -10,13 +10,13 @@
 
 ## Table of Contents
 
-*   [Shell](#shell)
+*   [miscellaneous](#miscellaneous)
 *   [Python](#python)
+*   [Shell](#shell)
 *   [Java](#java)
 *   [JavaScript](#javascript)
 *   [Vue](#vue)
 *   [C#](#c)
-*   [miscellaneous](#miscellaneous)
 *   [Rust](#rust)
 *   [Kotlin](#kotlin)
 *   [C++](#c-1)
@@ -35,59 +35,87 @@
 *   [EJS](#ejs)
 *   [Makefile](#makefile)
 
-## Shell
+## miscellaneous
 
-*   [corbindavenport/just-the-browser](https://github.com/corbindavenport/just-the-browser) - Remove AI features, telemetry data reporting, sponsored content, product integrations, and other annoyances from web browsers.
+*   [moviets/tvbox-api](https://github.com/moviets/tvbox-api) - 一个开源无广告的TVBox源，一个仓库全搞定。
 
-*   [jqssun/android-helium-browser](https://github.com/jqssun/android-helium-browser) - Private and secure Android browser with support for browser extensions
+*   [TWO-ICE/Awesome-NAS-Docker](https://github.com/TWO-ICE/Awesome-NAS-Docker) - 一个专注于 NAS 和 Docker 部署的开源项目合集，覆盖 AI、开发、数据管理、多媒体、运维等场景，提供一键式部署指南和实用教程，让 NAS 变身全能生产力工具！
 
-*   [backslashxx/mountify](https://github.com/backslashxx/mountify) - Globally mounted modules via OverlayFS.
+*   [Kindness-Kismet/Storage-redirection-X-Public](https://github.com/Kindness-Kismet/Storage-redirection-X-Public) - 存储重定向 X
 
-*   [gloeyisk/universal-gms-doze](https://github.com/gloeyisk/universal-gms-doze) - Patches Google Play services app and certain processes/services to be able to use battery optimization
+*   [dh374374/ChaiChaiEmbyTV](https://github.com/dh374374/ChaiChaiEmbyTV) - Emby Android TV 客户端
 
-*   [Lxapk/OpenList-Magisk](https://github.com/Lxapk/OpenList-Magisk) - 本模块的OpenList二进制文件制作为KernelSU模块
+*   [getsurfboard/surfboard](https://github.com/getsurfboard/surfboard) - https://getsurfboard.com
 
-*   [LSPosed/MagiskOnWSALocal](https://github.com/LSPosed/MagiskOnWSALocal) - Integrate Magisk root and Google Apps into WSA (Windows Subsystem for Android)
+*   [5ec1cff/TrickyStore](https://github.com/5ec1cff/TrickyStore) -
 
-*   [pkczc/OpenList-Magisk\_123](https://github.com/pkczc/OpenList-Magisk_123) - 修改oplist源，实现123网盘无限制下载
+*   [OpenRunner/clash-freenode](https://github.com/OpenRunner/clash-freenode) - 订阅地址🚀 免费共享♻️ 定期更新✨ 科学上网🌈 请勿滥用🚫一键订阅📪SSR/CLASH/V2RAY
 
-*   [Alien-Et/OpenList-Magisk](https://github.com/Alien-Et/OpenList-Magisk) - OpenList Magisk(兼容Magisk/KernelSU/APatch) 模块将 OpenList 文件服务器集成到 Android 系统中，通过 Magisk/KernelSU/APatch 以系统化方式运行，支持 ARM 和 ARM64 架构。
+*   [supzza/clianpro](https://github.com/supzza/clianpro) - 超链PRO 开箱即用的网盘下载/解析解决方案 支持直链解析、不限速下载、批量下载、Aria2加速等功能。完全免费，无需登录，一键获取网盘直链，解决下载限速问题。
 
-*   [fishforks/tgimg](https://github.com/fishforks/tgimg) - 适用于claw cloud部署的tgsearch、tgsou镜像
+*   [cailin88/AVB-Verification-Disabling-Module](https://github.com/cailin88/AVB-Verification-Disabling-Module) - 该方案为分离式AVB禁用与救砖模块设计改进方案，核心围绕兼容性、安全性、稳定性、易用性优化。   AVB禁用模块新增设备适配层（含多设备vbmeta路径配置与兼容性检测脚本），可动态适配不同机型，支持Android 14及动态分区设备，安装时弹窗提示安全风险。救砖模块新增应急层（离线恢复包、Fastboot指令模板）与状态反馈层，优化启动检测（30秒超时、多条件判定），3次启动失败尝试安全模式，5次则恢复vbmeta，还简化手动恢复指令。   组合安装包新增校验层（文件完整性与设备兼容性校验）和文档层，支持增量更新与设备白名单匹配。同时明确授权声明，所有者“好无聊”授权使用者相关权限，禁止商业售卖、二次授权等违规行为。
 
-*   [YangguangZhou/Monet-All](https://github.com/YangguangZhou/Monet-All) - 莫奈取色整合的Magisk模块，可通过音量键选择是否安装对应应用的取色模块
+*   [jark006/freezeitRelease](https://github.com/jark006/freezeitRelease) - 冻它模块发布页：适用于Android系统的基于Magisk和Xpsoed框架的墓碑机制模块
 
-*   [RuriOSS/asl](https://github.com/RuriOSS/asl) - Android Subsystem for GNU/Linux (magisk/ksu/Apatch module)
+*   [rcmiku/Kanade](https://github.com/rcmiku/Kanade) - 第三方网易云音乐客户端 | 仅供学习交流使用
 
-*   [nakixii/Magisk\_AsoulOpt](https://github.com/nakixii/Magisk_AsoulOpt) -
+*   [Moriafly/SaltPlayerSource](https://github.com/Moriafly/SaltPlayerSource) - Salt Player (A local music player trusted and chosen by hundreds of thousands of users) for Android Release, Feedback.
 
-*   [Chuhe2399/Clash.Mihomo](https://github.com/Chuhe2399/Clash.Mihomo) - Clash.Mihomo 模块，支持KernelSU、APatch、Magisk
+*   [seazon/FeedMe](https://github.com/seazon/FeedMe) - The documents and forum of FeedMe
 
-*   [Anduin2017/AnduinOS](https://github.com/Anduin2017/AnduinOS) - AnduinOS is a custom Ubuntu-based Linux distribution that offers a familiar and easy-to-use experience for anyone moving to Linux.
+*   [mytv-android/mytv-android](https://github.com/mytv-android/mytv-android) - Material 3 Expressive 风格的Android/Android TV IPTV播放器，内建Media3,IJKplayer和 VLC。A Material 3 Expressive style Android/Android TV IPTV player with built-in Media3, IJKplayer and VLC.
 
-*   [CHIZI-0618/box4magisk](https://github.com/CHIZI-0618/box4magisk) - Use sing-box, clash, v2ray, xray tunnel proxy on Android devices.
+*   [AttemptD/AfuseKt-release](https://github.com/AttemptD/AfuseKt-release) -
 
-*   [Peooop/alist-magisk](https://github.com/Peooop/alist-magisk) - Alist的magisk模块
+*   [eryajf/HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource) - ⚗️ GitHub开源项目维护协作指南
 
-*   [Aurora-Nasa-1/ARMIAS](https://github.com/Aurora-Nasa-1/ARMIAS) - Auto modules and patch installer framework
+*   [Snoopy1866/LiTiaotiao-Custom-Rules](https://github.com/Snoopy1866/LiTiaotiao-Custom-Rules) -
 
-*   [lingeringsound/10007\_auto](https://github.com/lingeringsound/10007_auto) - ZH: 自动更新去广告的hosts ，En: Automatically update ad hosts
+*   [1688aa/KeePass-Plugins-Instructions-for-use](https://github.com/1688aa/KeePass-Plugins-Instructions-for-use) - KeePass插件使用说明
 
-*   [gebangfeng/docker-mirror](https://github.com/gebangfeng/docker-mirror) - 整理各大docker,容器镜像仓库的国内镜像源
+*   [CATinTIN/vercel-revproxy](https://github.com/CATinTIN/vercel-revproxy) - vercel反代
 
-*   [symbuzzer/systemless-hosts-KernelSU-module](https://github.com/symbuzzer/systemless-hosts-KernelSU-module) - Required module to use applications such as AdAway on KernelSU and APatch
+*   [Mods-Center/HyperOS-Launcher](https://github.com/Mods-Center/HyperOS-Launcher) - Enhanced HyperOS Launcher with improved blur effects, widget support, stacked recent, dock background, and customization options for a refined user experience. Optimized for smoother performance and additional features on all devices.
 
-*   [xiaoyaDev/xiaoya-alist](https://github.com/xiaoyaDev/xiaoya-alist) - 小雅Alist的相关周边
+*   [xxnuo/MusicFreePluginsHub](https://github.com/xxnuo/MusicFreePluginsHub) -
 
-*   [ungoogled-software/ungoogled-chromium-android](https://github.com/ungoogled-software/ungoogled-chromium-android) - Android build for ungoogled-chromium
+*   [CHNJohnHK/Material-You-App-Repository](https://github.com/CHNJohnHK/Material-You-App-Repository) - A simple but intact and frequent-updated Material You App collection project creating with love and persistence.
 
-*   [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
+*   [MemDeco-WG/RootModuleMaker](https://github.com/MemDeco-WG/RootModuleMaker) - RMM Python+rust 混合 项目。Magisk/Apatch/Kernelsu模块开发，构建，测试，发布全流程 。CLI 程序
 
-*   [KazamataNeriQwQ/Neribox](https://github.com/KazamataNeriQwQ/Neribox) - A magisk module with AList | 一个围绕AList构建的Magisk模块
+*   [bachnxuan/android12-5.10-lts](https://github.com/bachnxuan/android12-5.10-lts) - ESK Kernel
 
-*   [iranee/qnap-openlist-webdav](https://github.com/iranee/qnap-openlist-webdav) - 一款挂载多个云盘的工具
+*   [a1393323447/aseprite-builder](https://github.com/a1393323447/aseprite-builder) - Build Aseprite using Github action(Window, MacOS, Ubuntu) in 10 minutes.
+
+*   [ivon852/awesome-foss-android-apps](https://github.com/ivon852/awesome-foss-android-apps) - Awesome FOSS Android Apps list (Traditional Chinese)
+
+*   [sjzar/chatlog](https://github.com/sjzar/chatlog) - chat log tool, easily use your own chat data. 聊天记录工具，轻松使用自己的聊天数据
+
+*   [ayaka14732/awesome-rime](https://github.com/ayaka14732/awesome-rime) - A curated list of Rime IME schemata and configs | Rime 輸入方案和配置列表
+
+*   [femkerr/dieghe](https://github.com/femkerr/dieghe) - 潮語 潮汕話 潮州話RIME輸入方案
+
+*   [yangbyyoung/OfflineModule](https://github.com/yangbyyoung/OfflineModule) -
+
+*   [Mods-Center/Package-Installer](https://github.com/Mods-Center/Package-Installer) - Modern package installer featuring enhanced UI, rich app info, Monet theme support, and update capabilities. Supports AOSP, MIUI, HyperOS, OxygenOS, ColorOS, and more—without requiring Unknown Sources permission or MIUI account login.
+
+*   [NextPlayerCloud/CloudPlex](https://github.com/NextPlayerCloud/CloudPlex) - Rclone Alist for Android
+
+*   [Memory2314/Memory-SimpleHook](https://github.com/Memory2314/Memory-SimpleHook) - 一个不定期更新的SimpleHook配置仓库
+
+*   [weekend-project-space/top-rss-list](https://github.com/weekend-project-space/top-rss-list) - 订阅人数最多的rss源，中文优质rss源
+
+*   [oureveryday/PikPak\_By\_Shimily\_Keygen](https://github.com/oureveryday/PikPak_By_Shimily_Keygen) - Keygen for PikPak\_By\_Shimily
+
+*   [xlucn/oh-my-foss-android](https://github.com/xlucn/oh-my-foss-android) - 个人收集的实用、良心开源安卓软件
+
+*   [Dr-TSNG/ZygiskNext](https://github.com/Dr-TSNG/ZygiskNext) - Standalone implementation of Zygisk
+
+*   [GeQ1an/Rules](https://github.com/GeQ1an/Rules) - Stick Rules -- Quantumult X / Loon / Clash Rules \ Quantumult back to CN Rules
 
 ## Python
+
+*   [mytv-android/iptv-api](https://github.com/mytv-android/iptv-api) - 📺IPTV电视直播源更新项目『✨秒播级体验🚀』：支持RTMP推流；支持IPv4/IPv6；支持自定义频道；支持本地源、组播源、酒店源、订阅源、关键字搜索；每天自动更新两次，结果可用于TVBox等播放软件；支持工作流、Docker(amd64/arm64/arm v7)、命令行、GUI运行方式 | IPTV live TV source update project
 
 *   [Len-CN/Roco-Navigator](https://github.com/Len-CN/Roco-Navigator) -
 
@@ -149,6 +177,60 @@
 
 *   [lee-cq/alist-sync](https://github.com/lee-cq/alist-sync) - Alist同步工具
 
+## Shell
+
+*   [WeiguangTWK/Palladium](https://github.com/WeiguangTWK/Palladium) - Privacy and security enhanced releases of Chromium allowed to use outside from GrapheneOS. Applied almost all patch from Vanadium. Now support extensions
+
+*   [corbindavenport/just-the-browser](https://github.com/corbindavenport/just-the-browser) - Remove AI features, telemetry data reporting, sponsored content, product integrations, and other annoyances from web browsers.
+
+*   [jqssun/android-helium-browser](https://github.com/jqssun/android-helium-browser) - Private and secure Android browser with support for browser extensions
+
+*   [backslashxx/mountify](https://github.com/backslashxx/mountify) - Globally mounted modules via OverlayFS.
+
+*   [gloeyisk/universal-gms-doze](https://github.com/gloeyisk/universal-gms-doze) - Patches Google Play services app and certain processes/services to be able to use battery optimization
+
+*   [Lxapk/OpenList-Magisk](https://github.com/Lxapk/OpenList-Magisk) - 本模块的OpenList二进制文件制作为KernelSU模块
+
+*   [LSPosed/MagiskOnWSALocal](https://github.com/LSPosed/MagiskOnWSALocal) - Integrate Magisk root and Google Apps into WSA (Windows Subsystem for Android)
+
+*   [pkczc/OpenList-Magisk\_123](https://github.com/pkczc/OpenList-Magisk_123) - 修改oplist源，实现123网盘无限制下载
+
+*   [Alien-Et/OpenList-Magisk](https://github.com/Alien-Et/OpenList-Magisk) - OpenList Magisk(兼容Magisk/KernelSU/APatch) 模块将 OpenList 文件服务器集成到 Android 系统中，通过 Magisk/KernelSU/APatch 以系统化方式运行，支持 ARM 和 ARM64 架构。
+
+*   [fishforks/tgimg](https://github.com/fishforks/tgimg) - 适用于claw cloud部署的tgsearch、tgsou镜像
+
+*   [YangguangZhou/Monet-All](https://github.com/YangguangZhou/Monet-All) - 莫奈取色整合的Magisk模块，可通过音量键选择是否安装对应应用的取色模块
+
+*   [RuriOSS/asl](https://github.com/RuriOSS/asl) - Android Subsystem for GNU/Linux (magisk/ksu/Apatch module)
+
+*   [nakixii/Magisk\_AsoulOpt](https://github.com/nakixii/Magisk_AsoulOpt) -
+
+*   [Chuhe2399/Clash.Mihomo](https://github.com/Chuhe2399/Clash.Mihomo) - Clash.Mihomo 模块，支持KernelSU、APatch、Magisk
+
+*   [Anduin2017/AnduinOS](https://github.com/Anduin2017/AnduinOS) - AnduinOS is a custom Ubuntu-based Linux distribution that offers a familiar and easy-to-use experience for anyone moving to Linux.
+
+*   [CHIZI-0618/box4magisk](https://github.com/CHIZI-0618/box4magisk) - Use sing-box, clash, v2ray, xray tunnel proxy on Android devices.
+
+*   [Peooop/alist-magisk](https://github.com/Peooop/alist-magisk) - Alist的magisk模块
+
+*   [Aurora-Nasa-1/ARMIAS](https://github.com/Aurora-Nasa-1/ARMIAS) - Auto modules and patch installer framework
+
+*   [lingeringsound/10007\_auto](https://github.com/lingeringsound/10007_auto) - ZH: 自动更新去广告的hosts ，En: Automatically update ad hosts
+
+*   [gebangfeng/docker-mirror](https://github.com/gebangfeng/docker-mirror) - 整理各大docker,容器镜像仓库的国内镜像源
+
+*   [symbuzzer/systemless-hosts-KernelSU-module](https://github.com/symbuzzer/systemless-hosts-KernelSU-module) - Required module to use applications such as AdAway on KernelSU and APatch
+
+*   [xiaoyaDev/xiaoya-alist](https://github.com/xiaoyaDev/xiaoya-alist) - 小雅Alist的相关周边
+
+*   [ungoogled-software/ungoogled-chromium-android](https://github.com/ungoogled-software/ungoogled-chromium-android) - Android build for ungoogled-chromium
+
+*   [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
+
+*   [KazamataNeriQwQ/Neribox](https://github.com/KazamataNeriQwQ/Neribox) - A magisk module with AList | 一个围绕AList构建的Magisk模块
+
+*   [iranee/qnap-openlist-webdav](https://github.com/iranee/qnap-openlist-webdav) - 一款挂载多个云盘的工具
+
 ## Java
 
 *   [FCL-Team/FoldCraftLauncher](https://github.com/FCL-Team/FoldCraftLauncher) - Fold Craft Launcher, an Android Minecraft : Java Edition launcher.
@@ -200,8 +282,6 @@
 *   [huliyoudiangou/TG\_Chat\_Bot-D1](https://github.com/huliyoudiangou/TG_Chat_Bot-D1) - 这是一个基于 Cloudflare Worker 和 D1 数据库 构建的高性能 Telegram 双向机器人。它不仅能将用户的私聊消息转发到管理员群组的话题中，还内置了完整的 CRM（客户关系管理）、防骚扰系统 和 自动化工作流。
 
 *   [ThomasBy2025/hikerview](https://github.com/ThomasBy2025/hikerview) - 海阔视界小程序
-
-*   [asxez/MusicBox](https://github.com/asxez/MusicBox) - 一款高颜值、插件化、可深度定制的本地音乐播放器，支持Windows、MacOS、Linux系统
 
 *   [yuanwangokk-1/HiKer](https://github.com/yuanwangokk-1/HiKer) -
 
@@ -295,88 +375,6 @@
 
 *   [stratumauth/app](https://github.com/stratumauth/app) - 📱 Two-Factor Authentication (2FA) client for Android + Wear OS
 
-## miscellaneous
-
-*   [TWO-ICE/Awesome-NAS-Docker](https://github.com/TWO-ICE/Awesome-NAS-Docker) - 一个专注于 NAS 和 Docker 部署的开源项目合集，覆盖 AI、开发、数据管理、多媒体、运维等场景，提供一键式部署指南和实用教程，让 NAS 变身全能生产力工具！
-
-*   [Kindness-Kismet/Storage-redirection-X-Public](https://github.com/Kindness-Kismet/Storage-redirection-X-Public) - 存储重定向 X
-
-*   [dh374374/ChaiChaiEmbyTV](https://github.com/dh374374/ChaiChaiEmbyTV) - Emby Android TV 客户端
-
-*   [getsurfboard/surfboard](https://github.com/getsurfboard/surfboard) - https://getsurfboard.com
-
-*   [5ec1cff/TrickyStore](https://github.com/5ec1cff/TrickyStore) -
-
-*   [OpenRunner/clash-freenode](https://github.com/OpenRunner/clash-freenode) - 订阅地址🚀 免费共享♻️ 定期更新✨ 科学上网🌈 请勿滥用🚫一键订阅📪SSR/CLASH/V2RAY
-
-*   [supzza/clianpro](https://github.com/supzza/clianpro) - 超链PRO 开箱即用的网盘下载/解析解决方案 支持直链解析、不限速下载、批量下载、Aria2加速等功能。完全免费，无需登录，一键获取网盘直链，解决下载限速问题。
-
-*   [cailin88/AVB-Verification-Disabling-Module](https://github.com/cailin88/AVB-Verification-Disabling-Module) - 该方案为分离式AVB禁用与救砖模块设计改进方案，核心围绕兼容性、安全性、稳定性、易用性优化。   AVB禁用模块新增设备适配层（含多设备vbmeta路径配置与兼容性检测脚本），可动态适配不同机型，支持Android 14及动态分区设备，安装时弹窗提示安全风险。救砖模块新增应急层（离线恢复包、Fastboot指令模板）与状态反馈层，优化启动检测（30秒超时、多条件判定），3次启动失败尝试安全模式，5次则恢复vbmeta，还简化手动恢复指令。   组合安装包新增校验层（文件完整性与设备兼容性校验）和文档层，支持增量更新与设备白名单匹配。同时明确授权声明，所有者“好无聊”授权使用者相关权限，禁止商业售卖、二次授权等违规行为。
-
-*   [jark006/freezeitRelease](https://github.com/jark006/freezeitRelease) - 冻它模块发布页：适用于Android系统的基于Magisk和Xpsoed框架的墓碑机制模块
-
-*   [rcmiku/Kanade](https://github.com/rcmiku/Kanade) - 第三方网易云音乐客户端 | 仅供学习交流使用
-
-*   [Moriafly/SaltPlayerSource](https://github.com/Moriafly/SaltPlayerSource) - Salt Player (A local music player trusted and chosen by hundreds of thousands of users) for Android Release, Feedback.
-
-*   [seazon/FeedMe](https://github.com/seazon/FeedMe) - The documents and forum of FeedMe
-
-*   [mytv-android/mytv-android](https://github.com/mytv-android/mytv-android) - Material 3 Expressive 风格的Android/Android TV IPTV播放器，内建Media3,IJKplayer和 VLC。A Material 3 Expressive style Android/Android TV IPTV player with built-in Media3, IJKplayer and VLC.
-
-*   [AttemptD/AfuseKt-release](https://github.com/AttemptD/AfuseKt-release) -
-
-*   [eryajf/HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource) - ⚗️ GitHub开源项目维护协作指南
-
-*   [Snoopy1866/LiTiaotiao-Custom-Rules](https://github.com/Snoopy1866/LiTiaotiao-Custom-Rules) -
-
-*   [1688aa/KeePass-Plugins-Instructions-for-use](https://github.com/1688aa/KeePass-Plugins-Instructions-for-use) - KeePass插件使用说明
-
-*   [CATinTIN/vercel-revproxy](https://github.com/CATinTIN/vercel-revproxy) - vercel反代
-
-*   [Mods-Center/HyperOS-Launcher](https://github.com/Mods-Center/HyperOS-Launcher) - Enhanced HyperOS Launcher with improved blur effects, widget support, stacked recent, dock background, and customization options for a refined user experience. Optimized for smoother performance and additional features on all devices.
-
-*   [xxnuo/MusicFreePluginsHub](https://github.com/xxnuo/MusicFreePluginsHub) -
-
-*   [CHNJohnHK/Material-You-App-Repository](https://github.com/CHNJohnHK/Material-You-App-Repository) - A simple but intact and frequent-updated Material You App collection project creating with love and persistence.
-
-*   [MemDeco-WG/RootModuleMaker](https://github.com/MemDeco-WG/RootModuleMaker) - RMM Python+rust 混合 项目。Magisk/Apatch/Kernelsu模块开发，构建，测试，发布全流程 。CLI 程序
-
-*   [bachnxuan/android12-5.10-lts](https://github.com/bachnxuan/android12-5.10-lts) - ESK Kernel
-
-*   [a1393323447/aseprite-builder](https://github.com/a1393323447/aseprite-builder) - Build Aseprite using Github action(Window, MacOS, Ubuntu) in 10 minutes.
-
-*   [ivon852/awesome-foss-android-apps](https://github.com/ivon852/awesome-foss-android-apps) - Awesome FOSS Android Apps list (Traditional Chinese)
-
-*   [sjzar/chatlog](https://github.com/sjzar/chatlog) - chat log tool, easily use your own chat data. 聊天记录工具，轻松使用自己的聊天数据
-
-*   [ayaka14732/awesome-rime](https://github.com/ayaka14732/awesome-rime) - A curated list of Rime IME schemata and configs | Rime 輸入方案和配置列表
-
-*   [femkerr/dieghe](https://github.com/femkerr/dieghe) - 潮語 潮汕話 潮州話RIME輸入方案
-
-*   [yangbyyoung/OfflineModule](https://github.com/yangbyyoung/OfflineModule) -
-
-*   [Mods-Center/Package-Installer](https://github.com/Mods-Center/Package-Installer) - Modern package installer featuring enhanced UI, rich app info, Monet theme support, and update capabilities. Supports AOSP, MIUI, HyperOS, OxygenOS, ColorOS, and more—without requiring Unknown Sources permission or MIUI account login.
-
-*   [NextPlayerCloud/CloudPlex](https://github.com/NextPlayerCloud/CloudPlex) - Rclone Alist for Android
-
-*   [Memory2314/Memory-SimpleHook](https://github.com/Memory2314/Memory-SimpleHook) - 一个不定期更新的SimpleHook配置仓库
-
-*   [weekend-project-space/top-rss-list](https://github.com/weekend-project-space/top-rss-list) - 订阅人数最多的rss源，中文优质rss源
-
-*   [oureveryday/PikPak\_By\_Shimily\_Keygen](https://github.com/oureveryday/PikPak_By_Shimily_Keygen) - Keygen for PikPak\_By\_Shimily
-
-*   [xlucn/oh-my-foss-android](https://github.com/xlucn/oh-my-foss-android) - 个人收集的实用、良心开源安卓软件
-
-*   [Dr-TSNG/ZygiskNext](https://github.com/Dr-TSNG/ZygiskNext) - Standalone implementation of Zygisk
-
-*   [GeQ1an/Rules](https://github.com/GeQ1an/Rules) - Stick Rules -- Quantumult X / Loon / Clash Rules \ Quantumult back to CN Rules
-
-*   [vhvg/Rules-1](https://github.com/vhvg/Rules-1) -  Clash / Loon / QuantumultX / Shadowrocket / Surge去广告规则
-
-*   [privacy-protection-tools/anti-AD](https://github.com/privacy-protection-tools/anti-AD) - 致力于成为中文区命中率最高的广告过滤列表，实现精确的广告屏蔽和隐私保护。anti-AD 现已支持 AdGuardHome，dnsmasq，Surge，Pi-Hole，Clash, mihomo，smartdns，sing-box 等网络组件。完全兼容常见的广告过滤工具所支持的各种广告过滤列表格式
-
-*   [ACL4SSR/ACL4SSR](https://github.com/ACL4SSR/ACL4SSR) - SSR 去广告ACL规则/SS完整GFWList规则/Clash规则碎片，Telegram频道订阅地址
-
 ## Rust
 
 *   [linbei0/skills-repository](https://github.com/linbei0/skills-repository) - 一个用于统一管理 Agent skills 资产的桌面应用
@@ -423,7 +421,7 @@
 
 *   [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app\_process.
 
-*   [AAswordman/Operit](https://github.com/AAswordman/Operit) - The most powerful AI agent and AI chat software on Android/Operit是一款Android上能力最为强大的AI Agent
+*   [AAswordman/Operit](https://github.com/AAswordman/Operit) - The most powerful AI agent and AI chat software on Android/Operit是一款Android上能力最为强大、发展最久的AI Agent
 
 *   [wxxsfxyzm/InstallerX-Revived](https://github.com/wxxsfxyzm/InstallerX-Revived) - More Expressive InstallerX !
 
@@ -520,6 +518,8 @@
 *   [Kumneger0/TGCloud](https://github.com/Kumneger0/TGCloud) - TGCloud is a secure and reliable cloud storage solution built on top of Telegram's infrastructure
 
 *   [JavanShen/beagle](https://github.com/JavanShen/beagle) - Music player that supports WebDAV
+
+*   [asxez/MusicBox](https://github.com/asxez/MusicBox) - 一款高颜值、插件化、可深度定制的本地音乐播放器，支持Windows、MacOS、Linux系统
 
 *   [appdev/siyuan-unlock](https://github.com/appdev/siyuan-unlock) - 思源笔记免登录版本；可以不登录使用同步功能
 
