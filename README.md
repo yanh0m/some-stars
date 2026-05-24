@@ -10,10 +10,10 @@
 
 ## Table of Contents
 
+*   [Java](#java)
 *   [miscellaneous](#miscellaneous)
 *   [Python](#python)
 *   [Shell](#shell)
-*   [Java](#java)
 *   [JavaScript](#javascript)
 *   [Vue](#vue)
 *   [C#](#c)
@@ -34,6 +34,48 @@
 *   [PHP](#php)
 *   [EJS](#ejs)
 *   [Makefile](#makefile)
+
+## Java
+
+*   [ymlyyy/TVAuto](https://github.com/ymlyyy/TVAuto) - TV Auto 是一款使用 WebView 的轻量级电视直播软件。操作超级简单，将网络视频直播资源整合为频道列表，在 Android TV、手机和平板上提供一致的沉浸式播放体验。
+
+*   [FCL-Team/FoldCraftLauncher](https://github.com/FCL-Team/FoldCraftLauncher) - Fold Craft Launcher, an Android Minecraft : Java Edition launcher.
+
+*   [hanxinhao000/ZeroTermux](https://github.com/hanxinhao000/ZeroTermux) -
+
+*   [risin42/NagramX](https://github.com/risin42/NagramX) - A variant of Nagram with additional features.
+
+*   [qwq233/Nullgram](https://github.com/qwq233/Nullgram) - 3rd party client of Telegram
+
+*   [xlzhen-940218/ifavorites](https://github.com/xlzhen-940218/ifavorites) - favorite all links
+
+*   [mlabalabala/box](https://github.com/mlabalabala/box) - TVBox的一个可以处理多源的版本，支持安卓4.4
+
+*   [kknifer7/FreeBox](https://github.com/kknifer7/FreeBox) - TVBox电脑版/姊妹软件，致力于TVBox功能和生态的跨平台扩展
+
+*   [bpellin/keepassdroid](https://github.com/bpellin/keepassdroid) - KeePass implementation for android
+
+*   [NextAlone/Nagram](https://github.com/NextAlone/Nagram) - The third-party Telegram android app.
+
+*   [JingMatrix/termux-monet](https://github.com/JingMatrix/termux-monet) - Termux Monet - a terminal emulator application for Android 8+ OS extendible by variety of packages, with Monet support and experimental features.
+
+*   [ReChronoRain/HyperCeiler](https://github.com/ReChronoRain/HyperCeiler) - HyperOS enhancement module - Make HyperOS Great Again!
+
+*   [HMCL-dev/HMCL](https://github.com/HMCL-dev/HMCL) - A Minecraft Launcher which is multi-functional, cross-platform and popular
+
+*   [takagen99/Box](https://github.com/takagen99/Box) - Experimental
+
+*   [weixiansen574/HybridFileXfer](https://github.com/weixiansen574/HybridFileXfer) - 多轨快传，同时使用USB和5G与2.4GWIFI等通道传输文件到电脑，榨干手机IO！
+
+*   [luoxingran/dolby\_beta](https://github.com/luoxingran/dolby_beta) - 杜比大喇叭的β版迎来了重大的革新，合并了UnblockMusic Pro的所有功能且更加强大，同时UnblockMusicPro\_Xposed项目将会停止维护，让我们欢送这位老朋友！
+
+*   [mywalkb/LSPosed\_mod](https://github.com/mywalkb/LSPosed_mod) - My changes to LSPosed
+
+*   [Katana-Official/SPatch-Update](https://github.com/Katana-Official/SPatch-Update) - Update for SPatch nightly
+
+*   [dragonwell-project/dragonwell8](https://github.com/dragonwell-project/dragonwell8) - Alibaba Dragonwell8 JDK
+
+*   [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
 
 ## miscellaneous
 
@@ -110,8 +152,6 @@
 *   [xlucn/oh-my-foss-android](https://github.com/xlucn/oh-my-foss-android) - 个人收集的实用、良心开源安卓软件
 
 *   [Dr-TSNG/ZygiskNext](https://github.com/Dr-TSNG/ZygiskNext) - Standalone implementation of Zygisk
-
-*   [GeQ1an/Rules](https://github.com/GeQ1an/Rules) - Stick Rules -- Quantumult X / Loon / Clash Rules \ Quantumult back to CN Rules
 
 ## Python
 
@@ -231,46 +271,6 @@
 
 *   [iranee/qnap-openlist-webdav](https://github.com/iranee/qnap-openlist-webdav) - 一款挂载多个云盘的工具
 
-## Java
-
-*   [FCL-Team/FoldCraftLauncher](https://github.com/FCL-Team/FoldCraftLauncher) - Fold Craft Launcher, an Android Minecraft : Java Edition launcher.
-
-*   [hanxinhao000/ZeroTermux](https://github.com/hanxinhao000/ZeroTermux) -
-
-*   [risin42/NagramX](https://github.com/risin42/NagramX) - A variant of Nagram with additional features.
-
-*   [qwq233/Nullgram](https://github.com/qwq233/Nullgram) - 3rd party client of Telegram
-
-*   [xlzhen-940218/ifavorites](https://github.com/xlzhen-940218/ifavorites) - favorite all links
-
-*   [mlabalabala/box](https://github.com/mlabalabala/box) - TVBox的一个可以处理多源的版本，支持安卓4.4
-
-*   [kknifer7/FreeBox](https://github.com/kknifer7/FreeBox) - TVBox电脑版/姊妹软件，致力于TVBox功能和生态的跨平台扩展
-
-*   [bpellin/keepassdroid](https://github.com/bpellin/keepassdroid) - KeePass implementation for android
-
-*   [NextAlone/Nagram](https://github.com/NextAlone/Nagram) - The third-party Telegram android app.
-
-*   [JingMatrix/termux-monet](https://github.com/JingMatrix/termux-monet) - Termux Monet - a terminal emulator application for Android 8+ OS extendible by variety of packages, with Monet support and experimental features.
-
-*   [ReChronoRain/HyperCeiler](https://github.com/ReChronoRain/HyperCeiler) - HyperOS enhancement module - Make HyperOS Great Again!
-
-*   [HMCL-dev/HMCL](https://github.com/HMCL-dev/HMCL) - A Minecraft Launcher which is multi-functional, cross-platform and popular
-
-*   [takagen99/Box](https://github.com/takagen99/Box) - Experimental
-
-*   [weixiansen574/HybridFileXfer](https://github.com/weixiansen574/HybridFileXfer) - 多轨快传，同时使用USB和5G与2.4GWIFI等通道传输文件到电脑，榨干手机IO！
-
-*   [luoxingran/dolby\_beta](https://github.com/luoxingran/dolby_beta) - 杜比大喇叭的β版迎来了重大的革新，合并了UnblockMusic Pro的所有功能且更加强大，同时UnblockMusicPro\_Xposed项目将会停止维护，让我们欢送这位老朋友！
-
-*   [mywalkb/LSPosed\_mod](https://github.com/mywalkb/LSPosed_mod) - My changes to LSPosed
-
-*   [Katana-Official/SPatch-Update](https://github.com/Katana-Official/SPatch-Update) - Update for SPatch nightly
-
-*   [dragonwell-project/dragonwell8](https://github.com/dragonwell-project/dragonwell8) - Alibaba Dragonwell8 JDK
-
-*   [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
-
 ## JavaScript
 
 *   [petronny/gfwlist2pac](https://github.com/petronny/gfwlist2pac) - Automatically convert gfwlist to pac everyday
@@ -342,6 +342,8 @@
 *   [moshstudio/wuji-tauri](https://github.com/moshstudio/wuji-tauri) - 一款简洁的资源聚合软件，支持单个应用中轻松浏览图片、音乐、小说，漫画、影视等资源
 
 *   [algerkong/AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer) - 一个第三方音乐播放器、本地服务、桌面歌词、音乐下载、远程控制
+
+*   [luckjiawei/frpc-desktop](https://github.com/luckjiawei/frpc-desktop) - Cross-platform desktop client for FRP, visual configuration, easily achieve intranet penetration!
 
 ## C\#
 
@@ -457,7 +459,7 @@
 
 *   [MMRLApp/MMRL](https://github.com/MMRLApp/MMRL) - A app for managing, sharing, and exploring Magisk modules across repositories
 
-*   [JackEblan/Geto](https://github.com/JackEblan/Geto) - Apply device settings to your apps. This multi-modular Android project is structured following Uncle Bob's Clean Architecture principles and Now in Android sample app
+*   [JackEblan/Geto](https://github.com/JackEblan/Geto) - Apply device settings to your apps.
 
 *   [jocmp/capyreader](https://github.com/jocmp/capyreader) - A smallish Android RSS reader
 
@@ -547,15 +549,13 @@
 
 *   [PasteBar/PasteBarApp](https://github.com/PasteBar/PasteBarApp) - PasteBar - Limitless, Free Clipboard Manager for Mac and Windows
 
-*   [imsyy/SPlayer](https://github.com/imsyy/SPlayer) - 🎵 A cross-platform music player with Jellyfin / Navidrome / Emby media server support, word-by-word lyrics, desktop & taskbar lyrics, cloud music drive, local library management, audio spectrum visualization and mobile-friendly UI. 简约的跨平台音乐播放器，支持逐字歌词、桌面歌词、任务栏歌词、云盘音乐、本地音乐管理及流媒体播放
+*   [SPlayer-Dev/SPlayer](https://github.com/SPlayer-Dev/SPlayer) - 🎵 A cross-platform music player with Jellyfin / Navidrome / Emby media server support, word-by-word lyrics, desktop & taskbar lyrics, cloud music drive, local library management, audio spectrum visualization and mobile-friendly UI. 简约的跨平台音乐播放器，支持逐字歌词、桌面歌词、任务栏歌词、云盘音乐、本地音乐管理及流媒体播放
 
 *   [maotoumao/MusicFreePlugins](https://github.com/maotoumao/MusicFreePlugins) - MusicFree播放插件
 
 *   [maotoumao/MusicFree](https://github.com/maotoumao/MusicFree) - 插件化、定制化、无广告的免费音乐播放器
 
 *   [ReviveUnblockNCMInstaller/RevivedUnblockInstaller](https://github.com/ReviveUnblockNCMInstaller/RevivedUnblockInstaller) - BetterNCM 插件 · 一键安装解灰
-
-*   [luckjiawei/frpc-desktop](https://github.com/luckjiawei/frpc-desktop) - Cross-platform desktop client for FRP, visual configuration, easily achieve intranet penetration!
 
 *   [whyour/qinglong](https://github.com/whyour/qinglong) - 支持 Python3、JavaScript、Shell、Typescript 的定时任务管理平台（Timed task management platform supporting Python3, JavaScript, Shell, Typescript）
 
